@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Prompt hints: role and GitHub",
+    "description": "Pick an agent role on the New Session screen and decide whether results are published to a freshly created GitHub repository."
+  }
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Prompt hints">
+  <!-- Two prompt chips: the first carries the role, the second the delivery arrow. -->
+  <g fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="5" y="9" width="32" height="19" rx="6" />
+    <path d="M12 28v7l8-7" />
+    <path d="M12 15h12M12 21h7" />
+    <rect x="27" y="34" width="32" height="19" rx="6" />
+    <path d="M36 43.5h13" />
+    <path d="M44 38.5l5 5-5 5" />
+  </g>
+</svg>
